@@ -1,2 +1,2 @@
-# tidyverse_dplyr_select_filter_mutate
+# Tidyverse: dplyr -- select, filter, mutate
 Materials for workshop on Tidyverse/dplyr--select, filter, mutate
